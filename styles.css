@@ -6,3 +6,14 @@ body{
     align-items: center ;
     height: 100vh;
 }
+
+@media (max-width: 600px) {
+    body{
+        background: #171817;
+        color: white;
+        display: grid;
+        justify-content: center;
+        align-items: center ;
+        height: 100vh;
+    }
+}
