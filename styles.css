@@ -1,4 +1,8 @@
 body{
-    background: rgba(136, 106, 45, 0.315);
+    background: #031822;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    height: 100vh;
 }
